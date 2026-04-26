@@ -1,0 +1,1 @@
+A weather app made using HTML,CSS and JavaScript.A third party API weather api is used to get the weather data of countries.Dispaly temperature, humidity,wind speed and other information by using API.
